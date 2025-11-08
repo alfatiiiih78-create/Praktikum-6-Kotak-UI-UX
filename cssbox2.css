@@ -1,0 +1,49 @@
+.container1 {
+    display: flex;
+    gap: 20px;
+}
+.container2 {
+    display: flex;
+    gap: 20px;
+}
+.container3 {
+    display: flex;
+    gap: 20px;
+}
+.kotak1 {
+    background-color: rgb(7, 100, 23);
+    display: flex;
+    padding: 10px;
+    height: 200px;
+    width: 100%;
+}
+.kotak2 {
+    background-color: rgb(0, 255, 234);
+    display: flex;
+    padding: 10px;
+    height: 300px;
+    width: 360px;
+}
+.kotak3 {
+    background-color: rgb(184, 4, 115);
+    gap: 20px;
+    display: flex;
+    padding: 10px;
+    height: 300px;
+    width: 100%;
+}
+.kotak4 {
+    background-color: rgb(2, 190, 190);
+    display: flex;
+    padding: 10px;
+    height: 300px;
+    width: 360px;
+}
+.kotak5 {
+    background-color: rgb(180, 255, 5);
+    gap: 20px;
+    display: flex;
+    padding: 10px;
+    height: 300px;
+    width: 100%;
+}
